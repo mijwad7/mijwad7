@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [mijwad7.github.io](mijwad7.github.io)
+- 👨‍💻 All of my projects are available at [mijwad7.github.io](https://mijwad7.github.io)
 
 - 📫 How to reach me **mijuzz007@gmail.com**
 
