@@ -3,7 +3,7 @@
 <img width="400" align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Python Full Stack with Django**
 
 - 👨‍💻 All of my projects are available at [mijwad7.github.io](https://mijwad7.github.io)
 
