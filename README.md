@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [mijwad7.github.io](https://mijwad7.github.io)
 
-- 📫 How to reach me **mijuzz007@gmail.com**
+- 📫 How to reach me **muhammedmijwad01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
